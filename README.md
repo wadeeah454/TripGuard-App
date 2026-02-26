@@ -2,9 +2,13 @@
 is an AI-powered travel safety and health advisory application designed to help travelers stay informed about nearby environmental and biological risks in real time.
 ## 🌍 Key Features 
 Real-time location tracking
+
  Nearby risk detection
+ 
  Travel safety monitoring
+ 
  Environmental & health alerts
+ 
 ## 🛠️ Tech Stack
 Expo
 React Native
